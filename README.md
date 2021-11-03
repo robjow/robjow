@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robjow
-- 👀 I’m interested in Developing and Managing FivM Servers and Security Topics 
-- 🌱 I’m currently learning Risk Managment and Security in Microsoft Services,
+- 👀 I’m interested in Developing and Managing FiveM Servers and Security Topics 
+- 🌱 I’m currently working on a FiveM Server and some other Types of Scripts
 
 <!---
 robjow/robjow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
