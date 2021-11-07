@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @robjow
-- 👀 I’m interested in Developing and Managing FiveM Servers and Security Topics 
-- 🌱 I’m currently working on a FiveM Server and some other Types of Scripts
+- Welcome to my GITHUB Profile
+- https://dsc.gg/HXRSettings
+- https://discord.gg/station
+- https://discord.gg/DarkLiveV
+- I´m Working on FiveM Scripts, Discord Bots and more Topics!
 
 <!---
 robjow/robjow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
