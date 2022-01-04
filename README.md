@@ -1,6 +1,7 @@
 - Welcome to my GITHUB Profile
 - https://dsc.gg/HXRSettings
-- https://discord.gg/station
+- https://discord.gg/futurev
+- https://dsc.gg/AlphaDevelopment
 - https://dsc.gg/DarkLiveV
 - I´m Working on FiveM Scripts, Discord Bots and more Topics!
 
