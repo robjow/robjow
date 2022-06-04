@@ -1,7 +1,5 @@
 - Welcome to my GITHUB Profile
-- http://robjow.xyz
-- http://Horizon-V.cc
-- https://dicord.gg/HORIZONV
+
 - I´m Working on FiveM Scripts, Discord Bots and more Topics!
 
 In the Next Time, their will be something new!
